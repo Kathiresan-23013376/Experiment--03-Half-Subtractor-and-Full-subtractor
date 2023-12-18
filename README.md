@@ -25,30 +25,65 @@ A full subtractor is a combinational circuit that performs subtraction involving
 
 Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 
-## Procedure
+### Procedure
+
+![Screenshot 2023-12-18 202709](https://github.com/Kathiresan-23013376/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150008375/43082396-a889-4b9e-9143-f5b0579fba96)
 
 
 
 Write the detailed procedure here 
 
 
-## Program:
+### Program:
+
+###Half Subtractor
+
+![Screenshot 2023-12-18 202727](https://github.com/Kathiresan-23013376/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150008375/2aeca27f-2fa7-4a65-aa72-39be4a6528a2)
+
+###Full Subtractor
+
+![Screenshot 2023-12-18 202734](https://github.com/Kathiresan-23013376/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150008375/7bccf017-1087-45b2-9fd5-e46b89ae6cd9)
+
+
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Kathiresan-K
+RegisterNumber: 23013376
 */
 
 ## Output:
+###RTL realization
 
-## Truthtable
+###Half Subtractor
+
+![Screenshot 2023-12-18 202740](https://github.com/Kathiresan-23013376/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150008375/a5476e3b-1fed-4e17-a339-aef4d545ac3b)
+
+###Full Subtractor
+
+![Screenshot 2023-12-18 202746](https://github.com/Kathiresan-23013376/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150008375/d3613397-8580-42b7-bf9f-999a095c68b2)
+
+###Truthtable
+
+###Half Subtractor
+
+![Screenshot 2023-12-18 202755](https://github.com/Kathiresan-23013376/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150008375/0301d4f7-2a50-4c7c-a363-bc12e7c869ae)
 
 
+###Full Subtractor
 
-##  RTL realization
+![Screenshot 2023-12-18 202802](https://github.com/Kathiresan-23013376/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150008375/8ad33bbb-ce17-4f14-8071-3b657f76acfd)
+
+###Timing diagram 
+
+###Half Subtractor
+
+![Screenshot 2023-12-18 202810](https://github.com/Kathiresan-23013376/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150008375/aeb3949e-2e97-47fe-bb81-e2309f3ce3d8)
 
 
-## Timing diagram 
+###Full Subtractor
+
+![Screenshot 2023-12-18 202821](https://github.com/Kathiresan-23013376/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150008375/785024d7-8725-433e-bf57-af813a6bb644)
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
